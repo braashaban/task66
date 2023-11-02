@@ -1,0 +1,14 @@
+
+.under-slider{
+    margin-top: 142px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #6c757d71;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+.content{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}

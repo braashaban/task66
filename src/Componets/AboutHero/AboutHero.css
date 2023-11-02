@@ -1,0 +1,39 @@
+
+.mainhero{
+    height: 80vh;
+    background-color: rgba(0, 255, 255, 0.899); 
+}
+
+.hero {
+    padding-top: 150px;
+    color: #fff;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+ 
+  
+}
+
+.hero p {
+    font-size: 20px;
+    letter-spacing: 2;
+}
+
+.hero .btn-33 {
+    background-color: deepskyblue;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    width: 180px;
+    transition: 0.8s all;
+}
+
+.hero .btn-33:hover {
+    background-color: #fff;
+    color: deepskyblue;
+}

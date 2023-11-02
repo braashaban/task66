@@ -1,0 +1,70 @@
+.p-power{
+    letter-spacing: 8px;
+     font-weight: 600;
+}
+
+.power{
+    margin-bottom: 150px !important;
+}
+.power .main{
+    position: relative;
+
+}
+.power .main .pointsss{
+
+    display: flex !important;
+    justify-content:space-around !important;
+    align-items: center !important;
+}
+.power .main .pointsss .line{
+    position: absolute;
+    width: 5px ;
+    background-color: #000;
+    height: 130px;
+  
+    top: 65%;
+    left: 13%;
+    border-radius: 5px;
+}
+
+.power .main .pointsss .line1{
+    position: absolute;
+    width: 5px ;
+    background-color: #000;
+    height: 100px;
+    top: 65%;
+    left: 39%;
+    border-radius: 5px;
+}
+
+.power .main .pointsss .line2{
+    position: absolute;
+    width: 5px ;
+    background-color: #000;
+    height: 110px;
+    border-radius: 5px;
+    top: 65%;
+    left: 63%;
+}
+
+.power .main .pointsss .line3{
+    position: absolute;
+    width: 5px ;
+    background-color: #000;
+    height: 130px;
+    top: 65%;
+    left: 89%;
+    border-radius: 5px;
+}
+
+
+.power .dot{
+   position: absolute;
+   top: 58%;
+   z-index: 4;
+
+}
+.power .delaties{
+    margin-top: 100px;
+    width: 150px;
+}

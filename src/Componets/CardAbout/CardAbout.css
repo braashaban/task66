@@ -1,0 +1,22 @@
+
+ .content {
+    background-color: rgba(0, 191, 255, 0.309);
+    padding: 20px;
+    border-radius: 10px;
+    transition: 0.5s all;
+}
+
+ .content:hover {
+    background-color: #dddd;
+}
+
+ .content .icons {
+    background-color: white;
+    padding: 10px;
+    height: 42px;
+    border-radius: 10px;
+}
+ .iconabout {
+    font-size: 25px;
+    color: deepskyblue;
+}

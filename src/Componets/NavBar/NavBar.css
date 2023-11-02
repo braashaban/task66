@@ -1,0 +1,10 @@
+.links{
+font-weight: 600;
+}
+.links:hover{
+    color:#eb0028 ;
+}
+.icons-group .icons{
+padding: 10px;
+color: black;
+}

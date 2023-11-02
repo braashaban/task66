@@ -1,0 +1,30 @@
+
+.features .feat1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   gap: 10px;
+   transition:  all 0.8s  ease-in-out;
+}
+.features .feat1 p{
+    color: var(--second-color);
+   
+}
+.features .center-img{
+    max-width:100%;
+}
+.features .feat1 h5:hover, .features .feat1 p:hover{
+    cursor: pointer;
+    color: #eb0028 !important;
+    font-weight: 600;
+}
+.features .feat1 img{
+    width: 100px;
+    height: 80px;
+    transition: 0.8s all  ease-in-out;
+}
+
+.features .feat1 img:hover,.performance .card-img-top:hover {
+    transform: scale(1.1);
+
+}

@@ -1,0 +1,28 @@
+p{
+    letter-spacing: 8px; font-weight: 600;
+}
+.accordions {
+    background-color: #000000;
+    color: white;
+    padding: 20px;
+}
+
+   
+/* .accordion .imgacordint{
+
+    } */
+.accordion .accordion-item {
+    background-color: transparent !important;
+    color: white;
+    border: none;
+    border-bottom: 1px solid #fff;
+    padding: 10px;
+ 
+}
+
+
+.accordion .accordion-header .accordion-button {
+    background-color: transparent !important;
+    color: white;
+   
+} 

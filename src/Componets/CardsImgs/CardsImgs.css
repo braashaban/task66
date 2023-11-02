@@ -1,0 +1,21 @@
+
+.performance .card {
+    border: none;
+    transition: 0.8s all ease-in-out;
+}
+
+.performance .p-card {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.performance p {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.performance .card-img-top {
+    width: 120px;
+    margin: auto;
+    transition: 0.8s all;
+}
