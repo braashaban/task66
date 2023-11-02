@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/task66/static/css/main.70ba4414.css",
+    "main.js": "/task66/static/js/main.ad995480.js",
+    "static/js/787.28cb0dcd.chunk.js": "/task66/static/js/787.28cb0dcd.chunk.js",
+    "static/media/phono-slider-1.webp": "/task66/static/media/phono-slider-1.157b4b4b421e7105db2f.webp",
+    "static/media/centaet.webp": "/task66/static/media/centaet.8e0024e1cf15a68752e1.webp",
+    "static/media/bro.jpg": "/task66/static/media/bro.3938511578419491b3e6.jpg",
+    "static/media/news.jpg": "/task66/static/media/news.0816fc8401df18365203.jpg",
+    "static/media/phono-slider-3.webp": "/task66/static/media/phono-slider-3.7c60752916bb0fbbe844.webp",
+    "static/media/phono-slider-2.webp": "/task66/static/media/phono-slider-2.8b009aa9befedf0ac97f.webp",
+    "static/media/22.webp": "/task66/static/media/22.b2ff1b55944c7c785e96.webp",
+    "static/media/lab.webp": "/task66/static/media/lab.1a0331438c7cea3ba3e3.webp",
+    "static/media/ph1.avif": "/task66/static/media/ph1.df644f94ce461b029763.avif",
+    "static/media/revicons.eot": "/task66/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/task66/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/task66/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/ic13.avif": "/task66/static/media/ic13.a0d72c5f3bec1aa1ddf3.avif",
+    "static/media/logo.webp": "/task66/static/media/logo.101da647f7bda8d73931.webp",
+    "static/media/ic12.webp": "/task66/static/media/ic12.3f431a4711167787884f.webp",
+    "static/media/ic11.webp": "/task66/static/media/ic11.1c4759ad3257d2ad8e5b.webp",
+    "static/media/2.webp": "/task66/static/media/2.65833a6671e473f38a7a.webp",
+    "static/media/3.webp": "/task66/static/media/3.8e625bfdd91134be7fb5.webp",
+    "static/media/ic4.webp": "/task66/static/media/ic4.c56c0a8fbdfaa160d8cf.webp",
+    "static/media/ic1.webp": "/task66/static/media/ic1.6285fc445a4dcd09daa1.webp",
+    "static/media/1.webp": "/task66/static/media/1.561e7ff0ad4450b6bada.webp",
+    "static/media/ic3.webp": "/task66/static/media/ic3.ddbbfc225469cceb57de.webp",
+    "static/media/ic6.webp": "/task66/static/media/ic6.1f16c75d9b6e52b18836.webp",
+    "index.html": "/task66/index.html",
+    "main.70ba4414.css.map": "/task66/static/css/main.70ba4414.css.map",
+    "main.ad995480.js.map": "/task66/static/js/main.ad995480.js.map",
+    "787.28cb0dcd.chunk.js.map": "/task66/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70ba4414.css",
+    "static/js/main.ad995480.js"
+  ]
+}
