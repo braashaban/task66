@@ -23,7 +23,7 @@ const NavBar = () => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="m-auto">
-          <Nav.Link to='/' as={Link} className="links">Home</Nav.Link>
+          <Nav.Link to='/task66' as={Link} className="links">Home</Nav.Link>
           <NavDropdown title="Collection" id="basic-nav-dropdown" className="links">
               <NavDropdown.Item href="#action/3.1"  className="links">Action</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2"  className="links">
@@ -35,10 +35,10 @@ const NavBar = () => {
                 Separated link
               </NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link to='/Android'  as={Link}  className="links"> Android</Nav.Link>
+            <Nav.Link to='/task66/Android'  as={Link}  className="links"> Android</Nav.Link>
            <Nav.Link  as={Link}  className="links">Shop</Nav.Link>
        
-          <Nav.Link to='/Android'  as={Link} className="links"> Android</Nav.Link>
+          <Nav.Link to='/task66/Android'  as={Link} className="links"> Android</Nav.Link>
           <Nav.Link  as={Link}  className="links"> Accessiorit</Nav.Link>
           <Nav.Link  as={Link}  className="links"> Memory&Storage</Nav.Link>
             <NavDropdown title="Page" id="basic-nav-dropdown" className="links">
