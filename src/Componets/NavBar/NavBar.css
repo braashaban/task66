@@ -4,7 +4,19 @@ font-weight: 600;
 .links:hover{
     color:#eb0028 ;
 }
-.icons-group .icons{
+.basic-navbar-nav .icons{
 padding: 10px;
 color: black;
+display: flex;
+
+
+}
+.select-menu{
+    width: 110px;
+    border:none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.selected{
+    width: 50px !important;
 }

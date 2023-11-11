@@ -1,0 +1,138 @@
+.carousel-item1{
+    background-image: url(../Hero/img/phono-slider-1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: calc(100vh - 71px);
+    }
+    .carousel-item2{
+    background-image: url(../Hero/img/phono-slider-2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: calc(100vh - 71px);
+    }
+    .carousel-item3{
+    background-image: url(../Hero/img/phono-slider-3.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: calc(100vh - 71px);
+    }
+    
+    .carousel-item1 .contant{
+    right: 200px;
+    top: 50%;
+    transform: translateY(-50%);
+    }
+    .carousel-item1 .contant h2{
+        color: white;
+        font-size: 33px;
+    }
+    .carousel-item1 .contant h1{
+        color: white;
+        font-size: 83px;
+        line-height: 5.9rem;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    @media(max-width:646px){
+        .carousel-item1 .contant h2{
+            color: black;
+            font-size: 13px !important;
+            margin-bottom: 10px;
+        }
+        .carousel-item1 .contant h1{
+            color: black;
+            font-size: 53px !important;
+            line-height: 3.9rem !important;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        .carousel-item1 .contant{
+    right: 20px !important;
+    background-color: white;
+    padding: 20px;
+            }
+    }
+    
+    
+    .carousel-item2 .contant{
+        left: 100px;
+        top: 50%;
+        transform: translateY(-50%);
+        }
+        .carousel-item2 .contant h2{
+            color: black;
+            font-size: 33px;
+        }
+        .carousel-item2 .contant h1{
+            color: black;
+            font-size: 83px;
+            line-height: 5.9rem;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+    
+        @media(max-width:646px){
+             .contant{
+                top: 50% !important;
+                transform: translateY(-50%) !important;
+                }
+            .carousel-item2 .contant h2{
+                color: white;
+                font-size: 13px !important;
+                margin-bottom: 10px;
+            }
+            .carousel-item2 .contant h1{
+                color: white;
+                font-size: 53px !important;
+                line-height: 3.9rem !important;
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            }
+            .carousel-item2 .contant{
+        left: 20px !important;
+        background-color: black;
+        padding: 20px;
+                }
+                .carousel-item2{
+                    /* background-image: url(../img/phono-slider-2.webp); */
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    background-position: top right;
+                    width: 100%;
+                    height: calc(100vh - 71px);
+                    }
+        }
+    
+        .carousel-item3 .contant{
+            right: 200px;
+            top: 50%;
+            transform: translateY(-50%);
+            }
+            .carousel-item3 .contant h2{
+                color: white;
+                font-size: 33px;
+            }
+            .carousel-item3 .contant h1{
+                color: white;
+                font-size: 83px;
+                line-height: 5.9rem;
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            }
+            @media(max-width:646px){
+                .carousel-item3 .contant h2{
+                    color: black;
+                    font-size: 13px !important;
+                    margin-bottom: 10px;
+                }
+                .carousel-item3 .contant h1{
+                    color: black;
+                    font-size: 53px !important;
+                    line-height: 3.9rem !important;
+                    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                    margin-bottom: 2px !important;
+                }
+                .carousel-item3 .contant{
+            right: 20px !important;
+            background-color: white;
+            padding: 20px;
+                    }
+            }

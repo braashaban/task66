@@ -1,12 +1,15 @@
 import React from 'react'
-import Carouselhero from '../../Componets/Carouselhero/Carouselhero'
+import Hero from '../../Componets/Hero/Hero'
 import NavBar from '../../Componets/NavBar/NavBar'
+
 
 const Collection = () => {
   return (
     <>   
+
      <NavBar />
-    <Carouselhero />
+    <Hero />
+ 
     </>
 
   )

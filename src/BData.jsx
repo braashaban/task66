@@ -1,15 +1,15 @@
 export const BData=[
         {
             img:require("./imgs/ph1.avif"),
-            "name": "iphone5",
-            "price":"500$",
+            "name": "ipad",
+            "price":"100$",
     
         },
         { 
             
             img:require("./imgs/ph1.avif"),
-        "name": "iphone5",
-        "price":"500$"},
+        "name": "sumsung",
+        "price":"200$"},
 
 
         {

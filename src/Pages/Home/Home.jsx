@@ -1,5 +1,4 @@
 import React from 'react' 
-import Carouselhero from '../../Componets/Carouselhero/Carouselhero'
 import NavBar from '../../Componets/NavBar/NavBar'
 import './Home.css'
 import imgs1 from './../../imgs/1.webp'
@@ -10,14 +9,14 @@ import Power from '../../Componets/Power/Power'
 import Features from '../../Componets/Features/Features'
 import Accordient from '../../Componets/Accordient/Accordient'
 import SliderImg from '../../Componets/SiderImg/SliderImg'
+import Hero from '../../Componets/Hero/Hero'
 const Home = () => {
   return (
-
     <>
     <div>
       <NavBar />
-      <Carouselhero />
-
+      <Hero />
+  
    {/* start the under slider */}
       <div class="under-slider">
   

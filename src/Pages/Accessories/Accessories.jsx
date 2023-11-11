@@ -1,14 +1,16 @@
 import React from 'react'
-import Carouselhero from '../../Componets/Carouselhero/Carouselhero'
+
 
 import NavBar from '../../Componets/NavBar/NavBar'
+import Page2head from '../../Componets/Page2head/Page2head'
 
 
 const Accessories = () => {
   return (
     <>
      <NavBar />
-   <Carouselhero />
+     <Page2head />
+  
     </>
  
   )

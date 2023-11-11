@@ -5,7 +5,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import "bootstrap/dist/js/bootstrap.bundle.min";
 import Home from './Pages/Home/Home';
 
-import Page from './Pages/Page/Page';
 import Collection from './Pages/Collection/Collection';
 import Android from './Pages/Android/Android';
 /* import CardsImgs from './Componets/CardsImgs/CardsImgs';
@@ -20,7 +19,7 @@ function App() {
 <Routes>
 <Route path='/task66' element={< Home/>}></Route>
 <Route path='/task66/collection' element={< Collection/>}></Route>
-<Route path='/task66/Page' element={< Page/>}></Route>
+{/* <Route path='/task66/Shop' element={< Shop/>}></Route> */}
 <Route path='/task66/Android' element={< Android/>}></Route>
 </Routes>
 
